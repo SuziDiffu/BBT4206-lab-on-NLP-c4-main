@@ -12,9 +12,9 @@
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |       150493      |
+| **Name:**                                                                                          |    Muindi Catherine Mutheu         |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |   I created the course evaluation analysis file analysis.ipynb , downloaded the NLTK VADER lexicon, and ran the full analysis: loading data, preprocessing text, fitting LDA, assigning topics, computing sentiment, and saving outputs. I also launched the Gradio app locally. I learnt how to manage Python environments, perform NLP preprocessing and analysis, compute sentiment, and build a simple interactive app.        |
 
 **Member 2**
 
