@@ -20,9 +20,9 @@
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**  148886                                                                                  |             |
+| **Name:**   Osimbo Vallerie Akhungu Martha                                                                                       |             |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |       I contributed by testing the existing NLP pipeline on new student course evaluations, predicting both the topics and the sentiment of each comment. I interpreted the results by mapping topic numbers to meaningful themes using the top words from the LDA model and verified that sentiment analysis accurately reflected positive, negative, or mixed feedback. I also prepared the output in a clear and readable format, making it easy to demonstrate and use for further course evaluation analysis.      |
 
 **Member 3**
 
