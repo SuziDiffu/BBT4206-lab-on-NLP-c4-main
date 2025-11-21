@@ -22,16 +22,26 @@
 |:---------------------------------------------------------------------------------------------------|:------------|
 | **Student ID:**  148886                                                                                  |             |
 | **Name:**   Osimbo Vallerie Akhungu Martha                                                                                       |             |
+<<<<<<< HEAD
 | **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |       I contributed by testing the existing NLP pipeline on new student course evaluations, predicting both the topics and the sentiment of each comment. I interpreted the results by mapping topic numbers to meaningful themes using the top words from the LDA model and verified that sentiment analysis accurately reflected positive, negative, or mixed feedback. I also prepared the output in a clear and readable format, making it easy to demonstrate and use for further course evaluation analysis      |
+=======
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |       I contributed by testing the existing NLP pipeline on new student course evaluations, predicting both the topics and the sentiment of each comment. I interpreted the results by mapping topic numbers to meaningful themes using the top words from the LDA model and verified that sentiment analysis accurately reflected positive, negative, or mixed feedback. I also prepared the output in a clear and readable format, making it easy to demonstrate and use for further course evaluation analysis.      |
+>>>>>>> upstream/main
 
 **Member 3**
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
+<<<<<<< HEAD
 | **Student ID:**                                                                                    |  152548           |
 | **Name:**                                                                                          |  Susan Diffu           |
 | **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** | 
 I contributed to the development and enhancement of the NLP pipeline by implementing the full text-preprocessing workflow, integrating VADER sentiment analysis, improving topic modelling interpretability through clear topic labels and keyword extraction, and conducting dataset-wide topic and sentiment analysis to generate meaningful insights. I also and added an interpretation and recommendations section to translate the model outputs into actionable guidance |
+=======
+| **Student ID:**                                                                                    |             |
+| **Name:**                                                                                          |             |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+>>>>>>> upstream/main
 
 **Member 4**
 
